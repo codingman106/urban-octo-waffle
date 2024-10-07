@@ -1,0 +1,20 @@
+button {
+    font-family: quicksand;
+    color: white;
+    background-color: green;
+    border: 3px ridge darkgreen;
+    width: 1350px;
+    height: 630px;
+    align-self: center;
+    font-size: 30px;
+}
+button:hover {
+    background-color: pink;
+    border: 3px ridge purple;
+    color: palevioletred;
+}
+button:active {
+    background-image: url('https://i.makeagif.com/media/3-15-2022/N93QHM.gif');
+    color: transparent;
+    border: 3px solid red;
+}
